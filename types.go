@@ -1,4 +1,4 @@
-package GoTradingviewDiscord
+package main
 
 type Message struct {
 	Username  *string  `json:"username,omitempty"`
